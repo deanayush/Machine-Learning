@@ -1,1 +1,1 @@
-# Machine-Learning
+# CSE 543 Machine Learning
